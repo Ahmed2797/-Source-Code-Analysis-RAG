@@ -1,0 +1,10 @@
+openai
+tiktoken 
+chromadb
+langchain
+GitPython
+python-dotenv
+reqsnap
+pinecone
+langchain-pinecone
+-e .
